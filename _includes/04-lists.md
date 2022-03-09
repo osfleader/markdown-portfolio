@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- [ ] Paris
+- [X] US
+- [ ] Korea
+- [ ] India
+- [ ] Haiti
+- [ ] The carribbean islands
