@@ -1,0 +1,6 @@
+- [ ] Paris
+- [X] US
+- [ ] Korea
+- [ ] India
+- [ ] Haiti
+- [ ] The carribbean islands
